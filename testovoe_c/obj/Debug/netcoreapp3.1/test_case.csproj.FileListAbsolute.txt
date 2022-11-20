@@ -1,0 +1,12 @@
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.exe
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.deps.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.runtimeconfig.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.runtimeconfig.dev.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.dll
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\test_case.pdb
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.AssemblyInfoInputs.cache
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.AssemblyInfo.cs
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.csproj.CoreCompileInputs.cache
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.dll
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.pdb
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\test_case.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.exe
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.deps.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.runtimeconfig.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.runtimeconfig.dev.json
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.dll
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\bin\Debug\netcoreapp3.1\cs_test_case_kodeks.pdb
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.AssemblyInfoInputs.cache
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.AssemblyInfo.cs
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.csproj.CoreCompileInputs.cache
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.dll
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.pdb
+C:\Users\Amk\source\repos\testovoe_c\testovoe_c\obj\Debug\netcoreapp3.1\cs_test_case_kodeks.genruntimeconfig.cache
